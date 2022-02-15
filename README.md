@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SUGAM-ARORA
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...various rpojects 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...various projects 
+- 📫 How to reach me ...check me out.......
 
 <!---
 SUGAM-ARORA/SUGAM-ARORA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
