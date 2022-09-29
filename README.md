@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SUGAM-ARORA
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...various projects 
 - 📫 How to reach me ...check me out.......
 
