@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align ="right" alt="Coding"  width="200"  src="https://media-exp1.licdn.com/dms/image/C4D03AQECSqIl1D6-2Q/profile-displayphoto-shrink_800_800/0/1650736197304?e=1673481600&v=beta&t=ForeO3YjfCe7MrpVWvYK7fPQoqcOOuOoLsRWu765Rao">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-arora&label=Profile%20views&color=0e75b6&style=flat" alt="sugam-arora14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-arora14 &label=Profile%20views&color=0e75b6&style=flat" alt="sugam-arora14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugam-arora" alt="sugam-arora" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sugamarora" target="blank"><img src="https://img.shields.io/twitter/follow/sugamarora?logo=twitter&style=for-the-badge" alt="sugamarora" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sugamarora14" target="blank"><img src="https://img.shields.io/twitter/follow/sugamarora?logo=twitter&style=for-the-badge" alt="sugamarora14" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
