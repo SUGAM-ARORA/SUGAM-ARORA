@@ -14,12 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sugamarora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sugamarora" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sugam arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugam arora" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sugam_arora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sugam_arora" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sugam_arora23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sugam_arora23" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sugam.arora23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sugam.arora23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sugam arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sugam arora" height="30" width="40" /></a>
+<a href="https://twitter.com/sugamarora" target="blank"><img align="center" src="https://twitter.com/home" alt="sugamarora" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sugam arora" target="blank"><img align="center" src="https://www.linkedin.com/in/sugam-arora-117265142/?originalSubdomain=in" alt="sugam arora" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sugam_arora" target="blank"><img align="center" src="https://www.codechef.com/users/sugam_arora" alt="sugam_arora" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sugam_arora23" target="blank"><img align="center" src="https://www.hackerrank.com/sugam_arora23?hr_r=1" alt="sugam_arora23" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sugam.arora23" target="blank"><img align="center" src="https://codeforces.com/profile/sugam.arora23" alt="sugam.arora23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sugam arora" target="blank"><img align="center" src="https://leetcode.com/user3170W/" alt="sugam arora" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
