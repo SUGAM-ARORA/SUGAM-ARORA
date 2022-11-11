@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sugamarora14" target="blank"><img align="center" src="https://twitter.com/@SugamArora14" alt="sugamarora" height="30" width="40" /></a>
+<a href="https://twitter.com/sugamarora14" target="blank"><img align="center" src="https://twitter.com/@SugamArora14" alt="sugamarora14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sugam arora" target="blank"><img align="center" src="https://www.linkedin.com/in/sugam-arora-117265142/?originalSubdomain=in" alt="sugam arora" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sugam_arora" target="blank"><img align="center" src="https://www.codechef.com/users/sugam_arora" alt="sugam_arora" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sugam_arora23" target="blank"><img align="center" src="https://www.hackerrank.com/sugam_arora23?hr_r=1" alt="sugam_arora23" height="30" width="40" /></a>
