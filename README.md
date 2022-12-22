@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-arora14 &label=Profile%20views&color=0e75b6&style=flat" alt="sugam-arora14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugam-arora" alt="sugam-arora" /></a> </p>
+<p align="left"> <a href="https://github.com/SUGAM-ARORA"><img src="https://github-profile-trophy.vercel.app/?username=sugam-arora" alt="sugam-arora" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sugamarora14" target="blank"><img src="https://img.shields.io/twitter/follow/sugamarora?logo=twitter&style=for-the-badge" alt="sugamarora14" /></a> </p>
 
