@@ -24,4 +24,4 @@ Hello Everyone 👋, I'm Sugam Arora<br>A passionate and enthusiastic developer 
 ---
 [![](https://visitcount.itsvg.in/api?id=SUGAM-ARORA&icon=2&color=0)](https://visitcount.itsvg.in)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sugam Arora&theme=tokyo-night&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SugamArora&theme=tokyo-night&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
