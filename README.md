@@ -24,4 +24,4 @@ Hello Everyone 👋, I'm Sugam Arora<br>A passionate and enthusiastic developer 
 ---
 [![](https://visitcount.itsvg.in/api?id=SUGAM-ARORA&icon=2&color=0)](https://visitcount.itsvg.in)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SUGAM-ARORA&theme=vue&include_all_commits=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![SUGAM-ARORA's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SUGAM-ARORA&theme=vue&include_all_commits=true&count_private=true)](https://camo.githubusercontent.com/11d7a81d7d57579c22979cc996c02654aafa2082b35cb580d5420a863dcebfbf/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d535547414d2d41524f5241267468656d653d76756526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565)
