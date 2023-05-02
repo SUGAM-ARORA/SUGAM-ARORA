@@ -2,7 +2,8 @@
 <img align ="right" alt="Coding"  width="320"  src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 Hi there! I'm Sugam Arora, a passionate web and app developer with a strong interest in machine learning. I love creating engaging, user-friendly interfaces that make people's lives easier, and I'm always exploring new technologies and techniques to improve my skills.<br>
 When I'm not coding, you can find me reading up on the latest developments in AI and data science, experimenting with new tools and frameworks, or working on personal projects to stretch my creativity. I'm a firm believer in open-source software and the power of collaboration, and I'm always eager to connect with other developers and learn from their experiences.<br>
-Whether you're interested in building cutting-edge apps, harnessing the power of machine learning, or just want to chat about the latest trends in web development, I'd love to hear from you. Feel free to check out my projects and get in touch!<br>
+Whether you're interested in building cutting-edge apps, harnessing the power of machine learning, or just want to chat about the latest trends in web development, I'd love to hear from you. Feel free to check out my projects and get in touch!
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugam-arora14 &label=Profile%20views&color=0e75b6&style=flat" alt="sugam-arora14" /> </p>
 
 
