@@ -23,3 +23,4 @@ Whether you're interested in building cutting-edge apps, harnessing the power of
 [![](https://visitcount.itsvg.in/api?id=SUGAM-ARORA&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SUGAM-ARORA&theme=vue)]()
