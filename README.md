@@ -27,8 +27,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=SUGAM-ARORA&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 # 🔝 Major Contribution Hub
-![](https://github-contributor-stats.vercel.app/api?username=SUGAM-ARORA&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-
 [![Sugam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SUGAM-ARORA&theme=react)](https://camo.githubusercontent.com/4e455f44e650a1f86817f6c763d8dc9f374d8d9cf1d455340dd375b9ae7b2386/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d535547414d2d41524f5241267468656d653d767565)
