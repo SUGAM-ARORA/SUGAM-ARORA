@@ -28,3 +28,7 @@
 
 # 🔝 Major Contribution Hub
 [![Sugam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SUGAM-ARORA&theme=react)](https://camo.githubusercontent.com/4e455f44e650a1f86817f6c763d8dc9f374d8d9cf1d455340dd375b9ae7b2386/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d535547414d2d41524f5241267468656d653d767565)
+
+# Hacktoberfest2023 
+
+[![An image of @sugam_arora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sugam_arora)](https://holopin.io/@sugam_arora)
