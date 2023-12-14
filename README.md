@@ -31,6 +31,10 @@
 
 [![SUGAM-ARORA's GitHub | Stats](https://stats.quine.sh/SUGAM-ARORA/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SUGAM-ARORA)
 
+[![SUGAM-ARORA's GitHub | Topics Over Time](https://stats.quine.sh/SUGAM-ARORA/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SUGAM-ARORA)
+
+[![SUGAM-ARORA's GitHub | Languages Over Time](https://stats.quine.sh/SUGAM-ARORA/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=SUGAM-ARORA)
+
 # Hacktoberfest2023 
 
 [![An image of @sugam_arora's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sugam_arora)](https://holopin.io/@sugam_arora)
