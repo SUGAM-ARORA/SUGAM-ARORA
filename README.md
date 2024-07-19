@@ -20,7 +20,7 @@
 # 🛠️ Toolchain:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,bootstrap,nodejs,express,flutter,dart,linux,git,github,docker,heroku,netlify,vercel,mysql,cassandra,mongodb,jquery,matlab,postman,figma,stackoverflow,selenium,vscode,visualstudio,wasm,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=anaconda,ansible,aws,azure,c,cpp,cassandra,bootstrap,css,discord,django,docker,elasticsearch,figma,flask,git,github,gitlab,gmail,grafana,html,ai,js,jenkins,kafka,kubernetes,linkedin,linux,matlab,maven,mongodb,mysql,netlify,nginx,npm,opencv,postgres,postman,py,react,redhat,stackoverflow,tailwind,tensorflow,terraform,twitter,ts,ubuntu,vercel,vscode,wasm,windows" />
   </a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
