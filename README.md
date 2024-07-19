@@ -1,7 +1,7 @@
 # 🧠 Insight :
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1600&lines= Ahoy, developers! I'm Sugam Arora, navigating the sea of code and innovation. 🌊💻" alt="Greetings, code crafters! I'm Sugam Arora, architecting the future one commit at a time. 💻✨" width="90%" align="middle"/>
 
-<img src="https://raw.githubusercontent.com/SUGAM-ARORA/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SUGAM-ARORA/SUGAM-ARORA/output/snake.svg" alt="Snake animation" />
 
 <div align="center"> 
   <p><b>Profile Views</b></p>
